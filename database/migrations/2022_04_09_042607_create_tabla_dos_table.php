@@ -34,3 +34,5 @@ class CreateTablaDosTable extends Migration
         Schema::dropIfExists('tabla_dos');
     }
 }
+
+/**/
